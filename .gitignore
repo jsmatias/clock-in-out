@@ -1,0 +1,13 @@
+# env files
+.env
+.ENV
+
+# virtual environments
+venv
+VENV
+
+# Pycache files
+*__pycache__
+
+# CSV files
+*.csv
