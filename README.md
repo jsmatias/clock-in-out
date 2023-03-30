@@ -2,4 +2,6 @@
 
 Track your daily working time.
 
-Project built in Python and data stored in a MySQL server.
+The main branch stores the data in a csv file.
+
+The backend branch includes a MySQL server connection and setup to store the data in a MySQL server.
